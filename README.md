@@ -1,6 +1,6 @@
 # Chris Hayes – Software Engineer & AI Enthusiast
 
-Hi! I’m Chris, a software engineer with 5 years of experience building enterprise and personal projects. I focus on creating user-friendly interfaces, robust backend systems, and exploring practical AI applications.  
+Hi! I’m Chris, a software engineer with 4 years of experience building enterprise and personal projects. I focus on creating user-friendly interfaces, robust backend systems, and exploring practical AI applications.  
 
 ---
 
